@@ -49,7 +49,7 @@ function Home({ extraClass = undefined }) {
           toUrl="#howItWorks"
           linkFor="hashed"
           extraClass={['section-margin']}
-        />
+        /> 
       )}
 
       {mediaQueryState.isLargeScreen && (
